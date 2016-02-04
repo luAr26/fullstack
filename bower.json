@@ -1,0 +1,29 @@
+{
+  "name": "full-stack-js",
+  "homepage": "https://github.com/luAr26/fullstack",
+  "authors": [
+    "luAr26"
+  ],
+  "description": "Full stack development with JavaScript",
+  "main": "index.js",
+  "moduleType": [],
+  "keywords": [
+    "node.js",
+    "mongodb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "backbone": "^1.2.3"
+  },
+  "devDependencies": {
+    "less": "^2.6.0"
+  }
+}
